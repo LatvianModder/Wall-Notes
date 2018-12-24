@@ -1,1 +1,1 @@
-# WallNotes
+# Wall Notes [![](http://cf.way2muchnoise.eu/wall-notes.svg)](https://minecraft.curseforge.com/projects/wall-notes) [![](http://cf.way2muchnoise.eu/versions/wall-notes.svg)](https://minecraft.curseforge.com/projects/wall-notes)
