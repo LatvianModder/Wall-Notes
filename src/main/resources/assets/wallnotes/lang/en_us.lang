@@ -1,1 +1,2 @@
-command.wallnotes.usage=/wallnotes
+key.wallnotes=Wall Notes
+wallnotes.cant_place=Can't place a note here!
